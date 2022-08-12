@@ -19,8 +19,8 @@ void main()
        {
             for(int j=0;j<n;j++)
             {
-                jjj
-                
+             
+
                 if(s[i]==t[j])
                 {
                     count++;
